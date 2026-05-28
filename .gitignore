@@ -1,0 +1,9 @@
+.env
+.env.*
+.github_token
+*.key
+*.pem
+Thumbs.db
+.DS_Store
+desktop.ini
+.mcp.json
