@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "playwright": {
+      "command": "C:\\Users\\josephine\\AppData\\Local\\Programs\\nodejs\\npx.cmd",
+      "args": ["-y", "@playwright/mcp@latest"]
+    }
+  }
+}
